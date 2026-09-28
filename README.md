@@ -18,6 +18,25 @@
 
 ## 🚀 Selected Projects
 
+---
+
+### 👁️ IRIS — Assistive Communication System
+
+`Python` `OpenCV` `MediaPipe` `Flask` `Computer Vision`
+
+Built **IRIS**, a computer-vision-based assistive communication prototype that translates intentional eye blinks into Morse code and readable text.
+
+- Used **MediaPipe facial landmarks** and OpenCV to detect and measure eye-blink duration in real time
+- Classified short and long blinks as Morse code **dots (`.`) and dashes (`-`)**
+- Built a **Flask web interface** with live camera streaming and real-time decoded text output
+- Developed an interactive **A–Z blink simulation** to demonstrate and test Morse code patterns
+- Explored accessible **human-computer interaction (HCI)** for users with limited motor control
+
+➡️ https://github.com/maximilian0817/IRIS-Assistive-Communication
+➡️ https://maximilian0817.github.io/IRIS-Assistive-Communication/
+
+---
+
 ### ⏰ FPGA Alarm Clock
 `VHDL` `FPGA` `Quartus Prime` `ModelSim`
 
@@ -27,7 +46,7 @@ Designed and implemented a complete digital alarm clock on a **DE10-Standard Cyc
 - Developed testbenches to verify individual modules and system behavior
 - Integrated the complete design and successfully demonstrated it on physical FPGA hardware
 
-➡️ [View Project](YOUR_PROJECT_LINK)
+➡️ https://alarmclockproject.base44.app/
 
 ---
 
@@ -41,35 +60,7 @@ Developed a command-line Blackjack game using object-oriented programming.
 - Implemented Ace handling, dealer behavior, input validation, and replay functionality
 - Tested edge cases including blackjack, busts, ties, and dealer outcomes
 
-➡️ [View Project](YOUR_PROJECT_LINK)
-
----
-
-### 🧮 Hash Table Implementation
-
-`C++` `Data Structures` `Algorithms`
-
-Implemented a hash table using **separate chaining** to explore efficient data storage and retrieval.
-
-- Implemented insertion, searching, and collision handling
-- Tested different load factors and collision scenarios
-- Analyzed time complexity and hash table performance
-
-➡️ [View Project](YOUR_PROJECT_LINK)
-
----
-
-### 🗣️ Raspberry Pi Translator
-
-`Python` `Raspberry Pi` `Linux`
-
-Built a portable translation prototype combining software and embedded hardware.
-
-- Worked with audio input and Python-based processing
-- Developed and tested the system in a Linux environment
-- Integrated hardware and software components into a functional prototype
-
-➡️ [View Project](YOUR_PROJECT_LINK)
+➡️ https://blackjackgame.base44.app/
 
 ---
 
